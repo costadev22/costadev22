@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img width="1365" height="768" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/396f6070-122a-489f-909e-cbf19533a77f" />
+<img width="100%" style="max-width: 600px;" alt="Code_Generated_Image(1)" src="https://github.com/user-attachments/assets/61ab8273-44fa-4bfc-906b-b2cd347a5b93" />
